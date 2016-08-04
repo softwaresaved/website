@@ -16,11 +16,11 @@ A good summary should quickly and uniquely identify the issue, and explain the p
 
 For example:
 
-Good: 
+Good
 ```
    "Scrolling doesn't work in text entry box on Events webpage"
 ```
-Bad: 
+Bad
 ```
    "Website doesn't work"
 ```
